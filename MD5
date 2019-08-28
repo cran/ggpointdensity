@@ -1,0 +1,7 @@
+e6d2c146aa74306b4d7c94e7f431abed *DESCRIPTION
+1ebbd3e34237af26da5dc08a4e440464 *LICENSE
+eab1c730f470196dc4e865c3f836fdbf *NAMESPACE
+2434f9745249097a4395e66d39ac7057 *R/geom_pointdensity.R
+ebe1353314c23e6a58db076d9dd6c1da *README.md
+2c600c590501bb923e7e7bd3298d84b8 *man/geom_pointdensity.Rd
+886138aae76a6c742771a202cd60d589 *src/count_neighbors.c
